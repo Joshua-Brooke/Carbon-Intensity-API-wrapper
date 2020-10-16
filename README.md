@@ -1,6 +1,8 @@
 # Carbon-Intensity-API-wrapper
 A python wrapper for the UK Carbon Intensity API.
 
+https://api.carbonintensity.org.uk/
+
 ## Example usage:
 ```python
 import ci_api_wrapper as ci
