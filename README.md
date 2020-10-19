@@ -3,6 +3,9 @@ A python wrapper for the UK Carbon Intensity API.
 
 https://api.carbonintensity.org.uk/
 
+## Installation:
+`pip install ci_api_wrapper`
+
 ## Example usage:
 ```python
 import ci_api_wrapper as ci
@@ -18,4 +21,4 @@ print(x.factors) #  Print current carbon intensity factors
 print(x.intensity_pt24h) #  Print carbon intensity for 24h before the specified date
 ```
 
-Use help(ci_api_wrapper) for a list of attributes and methods.
+Use `help(ci_api_wrapper)` for a list of attributes and methods.
