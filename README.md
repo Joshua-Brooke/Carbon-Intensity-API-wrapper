@@ -4,7 +4,7 @@ A python wrapper for the UK Carbon Intensity API.
 https://api.carbonintensity.org.uk/
 
 ## Installation:
-`pip install ci_api_wrapper`
+`pip install ci-api-wrapper`
 
 ## Example usage:
 ```python
