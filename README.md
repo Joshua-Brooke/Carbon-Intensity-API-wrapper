@@ -21,4 +21,4 @@ print(x.factors) #  Print current carbon intensity factors
 print(x.intensity_pt24h) #  Print carbon intensity for 24h before the specified date
 ```
 
-Use `help(ci_api_wrapper)` for a list of attributes and methods.
+Use `help(ci_api_wrapper.CarbonIntensityAPI)` for a list of attributes and methods.
